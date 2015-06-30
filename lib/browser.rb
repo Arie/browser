@@ -44,9 +44,9 @@ class Browser
   NAMES = {
     edge: "Microsoft Edge",   # Must come before everything
     ie: "Internet Explorer",  # Must come before android
-    chrome: "Chrome",         # Must come before android
     firefox: "Firefox",       # Must come before android
     android: "Android",
+    chrome: "Chrome",
     blackberry: "BlackBerry",
     core_media: "Apple CoreMedia",
     ipad: "iPad",
